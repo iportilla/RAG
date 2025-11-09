@@ -115,3 +115,5 @@ User Query → Retrieve Similar Chunks → LLM → Final Answer
 ---
 
 See [Vectors Example 1](https://pamelafox.github.io/vectors-comparison/)
+
+See [Movies Example 2](https://pamelafox.github.io/vectors-comparison/movies.html)
