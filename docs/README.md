@@ -20,8 +20,11 @@ Example (simplified):
 - **book** and **story** have similar vectors → similar meaning  
 - **car** is very different → unrelated meaning
 
-> **Key Idea:** In vector space, *meaning = location*.  
-> Words with similar meaning are **close together**.
+**Key Idea:** In vector space, *meaning = location*.  
+Words with similar meaning are **close together**.
+
+<img width="1190" height="734" alt="image" src="https://github.com/user-attachments/assets/7b209b30-973e-4a7f-bdff-93dc06c2df0d" />
+
 
 ---
 
@@ -84,7 +87,9 @@ LLM generates an answer based on retrieved information
 ## Typical RAG Architecture
 
 Documents → Chunking → Embeddings → Vector Database
+
 ↑          ↓
+
 User Query → Retrieve Similar Chunks → LLM → Final Answer
 
 ---
