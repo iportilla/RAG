@@ -1,0 +1,9 @@
+# Azure AI Search Hotels UI Requirements
+
+# Core dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# Azure Search SDK
+azure-search-documents>=11.4.0
+azure-core>=1.29.0
